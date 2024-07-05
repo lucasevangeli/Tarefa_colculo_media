@@ -5,7 +5,7 @@ public class App {
         int num3 = 5;
         int num4 = 10;
 
-        int soma = (num1 + num2 + num3 + num4)/2;
+        int soma = (num1 + num2 + num3 + num4)/4;
         System.out.println(soma);
     }
 }
